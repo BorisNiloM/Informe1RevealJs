@@ -19,12 +19,32 @@
 #alumno {
     display: inline-block;
     justify-content: left;
+    font-size: 28px;
 }
 
 #profesor {
     display: inline-block;
     justify-content: right;
     margin-left: 50px;
+    font-size: 28px;
+}
+
+#ionic {
+    border:none;
+    box-shadow:none;
+    max-width: 500px;
+    height: auto;
+}
+#cordova {
+    border:none;
+    box-shadow:none;
+    max-width: 400px;
+    height: auto;
+}
+
+.lista {
+    margin-top:10px;
+    margin-bottom: 10px;
 }
 
 
